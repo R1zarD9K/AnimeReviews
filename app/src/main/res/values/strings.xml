@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anime Reviews</string>
+
+    <string name="error">Gagal memuat data.. Koneksi Error.</string>
+    <string name="try_again">Coba Lagi</string>
+
+    <string name="profil">Profil</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+
+    <string name="animeTitle">Anime Title</string>
+    <string name="animeReview">Anime Review</string>
+
+    <string name="addReview">Add Review</string>
+</resources>
